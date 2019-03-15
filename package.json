@@ -1,0 +1,23 @@
+{
+  "name": "userapi",
+  "version": "1.0.0",
+  "description": "REstful API for User login and registeration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farheenp/UserAPINodejs.git"
+  },
+  "keywords": [
+    "\"RESTFUL\"",
+    "\"API\""
+  ],
+  "author": "Farheen Panjwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farheenp/UserAPINodejs/issues"
+  },
+  "homepage": "https://github.com/farheenp/UserAPINodejs#readme"
+}
