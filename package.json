@@ -4,7 +4,8 @@
   "description": "REstful API for User login and registeration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/farheenp/UserAPINodejs/issues"
   },
-  "homepage": "https://github.com/farheenp/UserAPINodejs#readme"
+  "homepage": "https://github.com/farheenp/UserAPINodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
